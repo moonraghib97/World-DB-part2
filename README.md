@@ -1,7 +1,5 @@
-
 ## World Database Restful API
 World-Database Restful API by 'Hibernate Haunters' consisting of Imogen, Murad, Mamoon, Irina, Oliver and Daniel👋.
-
 
 ## Project Overview
 This project creates a Java application that uses an SQL database containing a list of countries and cities, along with other details. 
